@@ -1,0 +1,70 @@
+https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
+
+
+
+https://www.hackerearth.com/practice/notes/bit-manipulation/
+
+
+https://www.geeksforgeeks.org/bits-manipulation-important-tactics/
+
+https://www.geeksforgeeks.org/multiset-in-cpp-stl/
+(important lower bound and upper bound)
+
+https://www.geeksforgeeks.org/tracking-current-maximum-element-in-a-stack/
+
+https://en.wikipedia.org/wiki/Cycle_detection#Tortoise_and_hare
+question related to this is 
+https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem(see drijango soln
+)
+https://www.hackerrank.com/challenges/tree-level-order-traversal/editorial
+
+https://www.hackerrank.com/challenges/crush/editorial
+(this keeps coming up)
+
+https://www.geeksforgeeks.org/std-set_intersection-in-cpp/
+its use i have done in my soln - https://www.hackerrank.com/challenges/equal-stacks/problem
+
+great use of hashing +map + tree - https://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/
+
+min heap using stl
+https://www.geeksforgeeks.org/implement-min-heap-using-stl/
+
+best dijkstra imlementation 
+https://www.hackerrank.com/challenges/dijkstrashortreach/editorial
+
+line sweep (cont understand)
+https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/
+
+best soln to max subarray
+
+
+https://www.hackerrank.com/contests/hourrank-29/challenges/array-partition/problem
+see soln of gennady, best for dsu
+
+https://discuss.codechef.com/questions/124102/xxor-editorial?sort=newest
+- xor
+
+https://threads-iiith.quora.com/Tutorial-on-Trie-and-example-problems
+TRIE
+
+
+in set or multiset if you have to substract iterators, then use distance()
+ex = distance(ms.begin(), ms.find(3));
+
+interval coverage
+load balance (maximum + minimum by introducing dummies)
+sort the input first , two pointer approach
+job scheduling
+ greedy approach
+https://discuss.codechef.com/questions/105249/interval-covering-problem
+(interval coverage)
+
+
+amortized analysis
+two pointer method
+stack(store in increasing order)
+sliding window
+
+
+
+
